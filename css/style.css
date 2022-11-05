@@ -1,0 +1,98 @@
+*{
+    margin: 0; padding: 0; text-decoration: none;
+}
+.about{
+    background-color: #333;
+    margin: auto;
+}
+/* Start About-Us */
+
+.about-us{
+   
+}
+.about-us h1{
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+   margin: auto;
+   text-align: center;
+   color: #000;
+   
+}
+.figuer{
+    margin-top: 30px;
+    text-align: center;
+}
+.figuer img{
+    color:;
+}
+.figuer span{
+    color: #999;
+    border-bottom: 1px solid #e3d105;
+}
+/* End About-Us */
+
+/*Start About-box */
+.about-box{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 50px;
+}
+.about-box .name{
+    width: 40%;
+}
+.about-box .name h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: #0b132b;
+}
+.about-box .name p{
+    font-size: 17px;
+    color: #999;
+    padding: 0 0 10px;
+}
+.about-box .img{
+    width: 40%;
+}
+.about-box .img #img-one{
+    border-radius: 50%;
+    border: 10px solid#fff;
+    text-align: center;
+}
+.about-box .img #img-two{
+    position: relative;
+    bottom: 300px;
+    right: 110px;
+    border-radius: 50%;
+    width: 110px;
+    border: 10px solid#fff;
+}
+/*End About-box */
+
+/* icons */
+.icons{
+    margin-left: 55%;
+}
+.icons i {
+    padding: 10px 4px;
+    color: #bababa;
+    font-size: 30px;
+    margin: 0 20px;
+}
+.icons i:hover{
+    color: #e3d105;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.5); */
